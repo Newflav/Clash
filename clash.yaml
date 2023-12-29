@@ -60,7 +60,7 @@ proxy-providers:
     # URL后面填写格式2[多个订阅]：https://api.nexconvert.com/sub?target=clash&url=请手动填入你的订阅(多机场订阅用|分割即可)&emoji=true&list=true&new_name=true&udp=false
     path: ./proxy_providers/tmp.yaml
     
-proxies: null
+
 proxy-groups:
 #分流分组
   - {name: 🚀 手动切换, <<: *a2}
