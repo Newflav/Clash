@@ -12,7 +12,7 @@ proxy-providers:
  foo:
    type: http
    path: ./profiles/proxies/foo.yaml
-   url: https://example-url (clash 订阅链接)
+   url: https://sub.xn--iiq540h.com/link/ugqPCdkX3xlZqK2H?clash=1
    interval: 3600 
    filter: 'Hong Kong' # 删选出含有该关键词的节点
    health-check:
