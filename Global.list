@@ -1,135 +1,135 @@
-# ---(Apple)---
-domain,amp-api.podcasts.apple.com
-domain,beta.music.apple.com
-domain,books.itunes.apple.com
-domain,lookup-api.apple.com
-domain,radio.itunes.apple.com
-domain,gateway.icloud.com
-domain,news-assets.apple.com
-domain,news-client.apple.com
-domain,news-client-search.apple.com
-domain,news-edge.apple.com
-domain,news-events.apple.com
-domain-suffix,books.apple.com
-domain-suffix,tv.apple.com
-domain-suffix,apple.news
+# ---(APPLE)---
+DOMAIN,AMP-API.PODCASTS.APPLE.COM
+DOMAIN,BETA.MUSIC.APPLE.COM
+DOMAIN,BOOKS.ITUNES.APPLE.COM
+DOMAIN,LOOKUP-API.APPLE.COM
+DOMAIN,RADIO.ITUNES.APPLE.COM
+DOMAIN,GATEWAY.ICLOUD.COM
+DOMAIN,NEWS-ASSETS.APPLE.COM
+DOMAIN,NEWS-CLIENT.APPLE.COM
+DOMAIN,NEWS-CLIENT-SEARCH.APPLE.COM
+DOMAIN,NEWS-EDGE.APPLE.COM
+DOMAIN,NEWS-EVENTS.APPLE.COM
+DOMAIN-SUFFIX,BOOKS.APPLE.COM
+DOMAIN-SUFFIX,TV.APPLE.COM
+DOMAIN-SUFFIX,APPLE.NEWS
 
-# > AppleID
-domain,appleid.apple.com
-domain,appleid.cdn-apple.com
-domain,gsa.apple.com
-domain,idmsa.apple.com
+# > APPLEID
+DOMAIN,APPLEID.APPLE.COM
+DOMAIN,APPLEID.CDN-APPLE.COM
+DOMAIN,GSA.APPLE.COM
+DOMAIN,IDMSA.APPLE.COM
 
-# > Testflight
-domain,beta.apple.com
-domain,testflight.apple.com
-domain-keyword,testflight
+# > TESTFLIGHT
+DOMAIN,BETA.APPLE.COM
+DOMAIN,TESTFLIGHT.APPLE.COM
+DOMAIN-KEYWORD,TESTFLIGHT
 
-# > Microsoft
-domain,assets1.xboxlive.com
-domain,assets2.xboxlive.com
-domain,az416426.vo.msecnd.net
-domain,az668014.vo.msecnd.net
-domain-suffix,bing.com
-domain-suffix,bing.net
-domain-suffix,bingapis.com
-domain-suffix,linkedin.com
-domain-suffix,licdn.com
-domain-suffix,msn.com
-domain-suffix,skype.com
-domain-suffix,aka.ms
-domain-suffix,streaming.mediaservices.windows.net
-domain-suffix,microsoft.com
-domain-suffix,office.com
-domain-suffix,office.net
-domain-suffix,office365.com
-domain-suffix,outlook.com
-domain-suffix,live.com
-domain-suffix,appcenter.ms
-domain-suffix,msauth.net
-domain-suffix,microsoftonline.com
-domain-suffix,microsoftapp.net
-domain-suffix,microsoft-falcon.io
+# > MICROSOFT
+DOMAIN,ASSETS1.XBOXLIVE.COM
+DOMAIN,ASSETS2.XBOXLIVE.COM
+DOMAIN,AZ416426.VO.MSECND.NET
+DOMAIN,AZ668014.VO.MSECND.NET
+DOMAIN-SUFFIX,BING.COM
+DOMAIN-SUFFIX,BING.NET
+DOMAIN-SUFFIX,BINGAPIS.COM
+DOMAIN-SUFFIX,LINKEDIN.COM
+DOMAIN-SUFFIX,LICDN.COM
+DOMAIN-SUFFIX,MSN.COM
+DOMAIN-SUFFIX,SKYPE.COM
+DOMAIN-SUFFIX,AKA.MS
+DOMAIN-SUFFIX,STREAMING.MEDIASERVICES.WINDOWS.NET
+DOMAIN-SUFFIX,MICROSOFT.COM
+DOMAIN-SUFFIX,OFFICE.COM
+DOMAIN-SUFFIX,OFFICE.NET
+DOMAIN-SUFFIX,OFFICE365.COM
+DOMAIN-SUFFIX,OUTLOOK.COM
+DOMAIN-SUFFIX,LIVE.COM
+DOMAIN-SUFFIX,APPCENTER.MS
+DOMAIN-SUFFIX,MSAUTH.NET
+DOMAIN-SUFFIX,MICROSOFTONLINE.COM
+DOMAIN-SUFFIX,MICROSOFTAPP.NET
+DOMAIN-SUFFIX,MICROSOFT-FALCON.IO
 
-# > Wikimedia
-domain-suffix,mediawiki.org
-domain-suffix,wikibooks.org
-domain-suffix,wikidata.org
-domain-suffix,wikileaks.org
-domain-suffix,wikimedia.org
-domain-suffix,wikimediafoundation.org
-domain-suffix,wikinews.org
-domain-suffix,wikipedia.org
-domain-suffix,wikiquote.org
-domain-suffix,wikisource.org
-domain-suffix,wikiversity.org
-domain-suffix,wikivoyage.org
-domain-suffix,wiktionary.org
+# > WIKIMEDIA
+DOMAIN-SUFFIX,MEDIAWIKI.ORG
+DOMAIN-SUFFIX,WIKIBOOKS.ORG
+DOMAIN-SUFFIX,WIKIDATA.ORG
+DOMAIN-SUFFIX,WIKILEAKS.ORG
+DOMAIN-SUFFIX,WIKIMEDIA.ORG
+DOMAIN-SUFFIX,WIKIMEDIAFOUNDATION.ORG
+DOMAIN-SUFFIX,WIKINEWS.ORG
+DOMAIN-SUFFIX,WIKIPEDIA.ORG
+DOMAIN-SUFFIX,WIKIQUOTE.ORG
+DOMAIN-SUFFIX,WIKISOURCE.ORG
+DOMAIN-SUFFIX,WIKIVERSITY.ORG
+DOMAIN-SUFFIX,WIKIVOYAGE.ORG
+DOMAIN-SUFFIX,WIKTIONARY.ORG
 
-# > Notion
-domain-suffix,notion-static.com
-domain-suffix,notion.com
-domain-suffix,notion.new
-domain-suffix,notion.site
-domain-suffix,notion.so
+# > NOTION
+DOMAIN-SUFFIX,NOTION-STATIC.COM
+DOMAIN-SUFFIX,NOTION.COM
+DOMAIN-SUFFIX,NOTION.NEW
+DOMAIN-SUFFIX,NOTION.SITE
+DOMAIN-SUFFIX,NOTION.SO
 
-# > Github
-domain-suffix,github.blog
-domain-suffix,github.com
-domain-suffix,github.io
-domain-suffix,githubassets.com
-domain-suffix,githubapp.com
-domain-suffix,rawgithub.com
-domain-suffix,githubusercontent.com
-domain-keyword,github
+# > GITHUB
+DOMAIN-SUFFIX,GITHUB.BLOG
+DOMAIN-SUFFIX,GITHUB.COM
+DOMAIN-SUFFIX,GITHUB.IO
+DOMAIN-SUFFIX,GITHUBASSETS.COM
+DOMAIN-SUFFIX,GITHUBAPP.COM
+DOMAIN-SUFFIX,RAWGITHUB.COM
+DOMAIN-SUFFIX,GITHUBUSERCONTENT.COM
+DOMAIN-KEYWORD,GITHUB
 
-# > Gitlab
-domain-suffix,gitlab.io
-domain-suffix,gitlab.com
-domain-suffix,gitlab.net
+# > GITLAB
+DOMAIN-SUFFIX,GITLAB.IO
+DOMAIN-SUFFIX,GITLAB.COM
+DOMAIN-SUFFIX,GITLAB.NET
 
-# > Cloudflare
-domain-suffix,warp.plus
-domain-suffix,cloudflare.com
-domain-suffix,cloudflare.net
-domain-suffix,cloudflareclient.com
+# > CLOUDFLARE
+DOMAIN-SUFFIX,WARP.PLUS
+DOMAIN-SUFFIX,CLOUDFLARE.COM
+DOMAIN-SUFFIX,CLOUDFLARE.NET
+DOMAIN-SUFFIX,CLOUDFLARECLIENT.COM
 
-# > Signal
-domain-suffix,signal.org
-domain-suffix,hcaptcha.com
+# > SIGNAL
+DOMAIN-SUFFIX,SIGNAL.ORG
+DOMAIN-SUFFIX,HCAPTCHA.COM
 
-# > Proton
-domain-suffix,pm.me
-domain-suffix,proton.me
-domain-suffix,protonmail.com
+# > PROTON
+DOMAIN-SUFFIX,PM.ME
+DOMAIN-SUFFIX,PROTON.ME
+DOMAIN-SUFFIX,PROTONMAIL.COM
 
-# > Tutanota
-domain-suffix,tuta.com
-domain-suffix,tutanota.com
+# > TUTANOTA
+DOMAIN-SUFFIX,TUTA.COM
+DOMAIN-SUFFIX,TUTANOTA.COM
 
-# > Deepl
-domain-suffix,deepl.com
+# > DEEPL
+DOMAIN-SUFFIX,DEEPL.COM
 
-# > Papago
-domain-suffix,naver.com
-domain-suffix,naver.net
+# > PAPAGO
+DOMAIN-SUFFIX,NAVER.COM
+DOMAIN-SUFFIX,NAVER.NET
 
-# > Mail
-domain,s.uicdn.com
-domain,cdn.cookielaw.org
-domain-suffix,mail.com
-domain-suffix,ui-portal.de
+# > MAIL
+DOMAIN,S.UICDN.COM
+DOMAIN,CDN.COOKIELAW.ORG
+DOMAIN-SUFFIX,MAIL.COM
+DOMAIN-SUFFIX,UI-PORTAL.DE
 
-# > Yahoo
-domain-suffix,oath.com
-domain-suffix,yahoo.com
+# > YAHOO
+DOMAIN-SUFFIX,OATH.COM
+DOMAIN-SUFFIX,YAHOO.COM
 
-# > Duckduckgo
-domain-suffix,duckduckgo.com
+# > DUCKDUCKGO
+DOMAIN-SUFFIX,DUCKDUCKGO.COM
 
 # > 代理工具
-domain-keyword,nsloon
-domain-keyword,quantumult
+DOMAIN-KEYWORD,NSLOON
+DOMAIN-KEYWORD,QUANTUMULT
 
 # > 其他
-domain-suffix,mil
+DOMAIN-SUFFIX,MIL
