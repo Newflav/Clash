@@ -34,7 +34,6 @@ dns:
     - 119.29.29.29
   fallback:          # 国外 DNS 服务器
     - https://106.52.218.142/verse
-    - https://doh.bubujun.top/dns-query
     - https://1.0.0.1/dns-query
   fallback-filter:
     geoip: true
