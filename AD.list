@@ -1,8 +1,8 @@
+# >>>>>>>>>>>>>>> ✅ # ✅ <<<<<<<<<<<<<<
 # > 阻止反诈收集信息
 DOMAIN-SUFFIX,GJFZPT.CN
 IP-CIDR,219.143.187.136/32
 
-# >>>>>>>>>>>>>>> ✅ # ✅ <<<<<<<<<<<<<<
 # > 广告联盟
 DOMAIN-SUFFIX, miaozhen.com
 DOMAIN-SUFFIX, ad-sign.byteimg.com
@@ -16,6 +16,7 @@ DOMAIN-SUFFIX, getui.com
 DOMAIN-SUFFIX, getui.net
 DOMAIN-SUFFIX, gepush.com
 DOMAIN-SUFFIX, igexin.com
+
 # > 收集用户隐私联盟，若有问题自行设置白名单
 DOMAIN-KEYWORD, volc
 
