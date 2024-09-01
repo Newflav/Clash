@@ -12,7 +12,7 @@ external-controller: 127.0.0.1:9090
 dns:
   enable: true       # 不使用系统 DNS
   ipv6: true        # 关闭 IPV6
-  listen: 0.0.0.0:53 # dns 监听
+  listen: 127.0.0.1:53 # dns 监听
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
   fake-ip-filter:
