@@ -33,9 +33,9 @@ dns:
     - 223.5.5.5
     - 119.29.29.29
   fallback:          # 国外 DNS 服务器
-    - https://106.52.218.142/verse
     - https://106.75.164.170/Eaf9nie7quee/endusers
-    - https://1.0.0.1/dns-query
+    - https://dnschina1.soraharu.com/dns-query
+    - https://null.kbsml.com/apt-get
   fallback-filter:
     geoip: true
     geoip-code: CN
